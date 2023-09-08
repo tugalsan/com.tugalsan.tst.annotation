@@ -8,7 +8,7 @@ public class Main {
     private static final TS_Log d = TS_Log.of(Main.class);
 
     //cd C:\me\codes\com.tugalsan\tst\com.tugalsan.tst.annotation
-    //java --enable-preview --add-modules jdk.incubator.concurrent -jar target/com.tugalsan.tst.annotation-1.0-SNAPSHOT-jar-with-dependencies.jar
+    //java --enable-preview --add-modules jdk.incubator.vector -jar target/com.tugalsan.tst.annotation-1.0-SNAPSHOT-jar-with-dependencies.jar
     //java -jar target/com.tugalsan.tst.annotation-1.0-SNAPSHOT-jar-with-dependencies.jar
     public static void main(String... s) {
         
